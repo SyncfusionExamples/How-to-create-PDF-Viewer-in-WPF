@@ -1,9 +1,7 @@
 # Create WPF PdfViewer sample in C# and VB.Net
 These samples contains PDF Viewer Control with PDF document loaded in it. PDF Viewer lets you to edit, print and persist the modified PDF file. Also you will be able to work with PDF Viewer features like annotations, bookmark, zooming features of PDF Viewer.
 
-Watch the video now:
-
-Documentation: https://help.syncfusion.com/wpf/pdf-viewer/getting-started
+Documentation: https://help.syncfusion.com/document-processing/pdf/pdf-viewer/wpf/getting-started
 
 ## Project pre-requisites
 
